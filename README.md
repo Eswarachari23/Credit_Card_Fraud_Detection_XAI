@@ -1,17 +1,33 @@
- Credit Card Fraud Detection with Explainable AI
+# Credit Card Fraud Detection with Explainable AI
 
-Overview:
-This project detects fraudulent credit card transactions using Machine Learning algorithms and Explainable AI techniques.
+## Overview
 
- Technologies:
-- Python
-- Pandas
-- Scikit-Learn
-- SHAP
-- Streamlit
+This project uses Machine Learning techniques to detect fraudulent credit card transactions and Explainable AI (SHAP) to understand model predictions.
 
- Features:
-- Fraud prediction
-- Data preprocessing
-- Model evaluation
-- Explainable AI visualizations
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* SHAP
+* Streamlit
+
+## Features
+
+* Data preprocessing
+* Fraud transaction detection
+* Random Forest classification
+* Model evaluation and accuracy metrics
+* Explainable AI visualizations using SHAP
+
+## Future Enhancements
+
+* Interactive Streamlit dashboard
+* Real-time fraud prediction
+* Advanced ML models (XGBoost)
+
+## Author
+U.Eswarachari
+Eswarachari
+
